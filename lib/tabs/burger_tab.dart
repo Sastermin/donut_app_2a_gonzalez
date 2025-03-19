@@ -7,8 +7,8 @@ class BurgerTab extends StatelessWidget {
   final List donutsOnSale = [
     // [ donutFlavor, donutStore, donutPrice, donutColor, imageName ]
    ["Juice Burger","Burger King", "65", Colors.orange, "lib/images/Juiceburger.png"],
-   ["Strawberry", "Dunkin Donuts", "45", Colors.red, "lib/images/strawberry_donut.png"],
-   ["Grape Ape", "Krispy Cream", "84", Colors.purple, "lib/images/grape_donut.png"],
+   ["Double Meat", "Burger King", "45", Colors.red, "lib/images/Doblecarne.png"],
+   ["Jhony Burger", "Johnny rockets", "66", Colors.yellow, "lib/images/jhonybur.png"],
    ["Choco", "Donkey Donut", "95", Colors.brown, "lib/images/chocolate_donut.png"],
    ["Platano", "Donkey Donut", "60", Colors.brown, "lib/images/chocolate_donut.png"],
    ["Limon", "Krispy Cream", "78", Colors.purple, "lib/images/grape_donut.png"],
