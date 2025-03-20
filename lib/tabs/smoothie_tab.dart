@@ -6,14 +6,14 @@ class SmoothieTab extends StatelessWidget {
   //Lista de donas
   final List donutsOnSale = [
     // [ donutFlavor, donutStore, donutPrice, donutColor, imageName ]
-   ["Ice Cream","Krispy Cream", "36", Colors.blue, "lib/images/icecream_donut.png"],
-   ["Strawberry", "Dunkin Donuts", "45", Colors.red, "lib/images/strawberry_donut.png"],
-   ["Grape Ape", "Krispy Cream", "84", Colors.purple, "lib/images/grape_donut.png"],
-   ["Choco", "Donkey Donut", "95", Colors.brown, "lib/images/chocolate_donut.png"],
-   ["Platano", "Donkey Donut", "60", Colors.brown, "lib/images/chocolate_donut.png"],
-   ["Limon", "Krispy Cream", "78", Colors.purple, "lib/images/grape_donut.png"],
-   ["Carlos V", "Krispy Cream", "99", Colors.purple, "lib/images/grape_donut.png"],
-   ["Crunchy","Krispy Cream", "81", Colors.blue, "lib/images/icecream_donut.png"],
+   ["Mango","Starbucks", "36", Colors.yellow, "lib/images/mango.png"],
+   ["Strawberry", "Italian Coffee", "45", Colors.pink, "lib/images/fresa.png"],
+   ["Banana", "Starbucks", "84", Colors.yellow, "lib/images/smoothplatano.png"],
+   ["Peanut Butter", "Italian Coffe", "95", Colors.brown, "lib/images/peanut.png"],
+   ["Oreo", "Italian Coffee", "60", Colors.brown, "lib/images/oreo.png"],
+   ["Piña-Colada", "Starbucks", "78", Colors.yellow, "lib/images/colada.png"],
+   ["Choco", "Starbucks", "99", Colors.brown, "lib/images/choco.png"],
+   ["Chamoy","Dairy Queen", "81", Colors.orange, "lib/images/chamoy.png"],
 
   ];
   SmoothieTab ({super.key});

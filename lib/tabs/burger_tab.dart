@@ -9,11 +9,11 @@ class BurgerTab extends StatelessWidget {
    ["Juice Burger","Burger King", "65", Colors.orange, "lib/images/Juiceburger.png"],
    ["Double Meat", "Burger King", "45", Colors.red, "lib/images/Doblecarne.png"],
    ["Jhony Burger", "Johnny rockets", "66", Colors.yellow, "lib/images/jhonybur.png"],
-   ["Choco", "Donkey Donut", "95", Colors.brown, "lib/images/chocolate_donut.png"],
-   ["Platano", "Donkey Donut", "60", Colors.brown, "lib/images/chocolate_donut.png"],
-   ["Limon", "Krispy Cream", "78", Colors.purple, "lib/images/grape_donut.png"],
-   ["Carlos V", "Krispy Cream", "99", Colors.purple, "lib/images/grape_donut.png"],
-   ["Crunchy","Krispy Cream", "81", Colors.blue, "lib/images/icecream_donut.png"],
+   ["Mr. Bacon", "McDonalds", "82", Colors.brown, "lib/images/mr.bacon.png"],
+   ["Wakey wakey!!", "McDonalds", "75", Colors.yellow, "lib/images/wakey.png"],
+   ["ALL IN", "Burger King", "80", Colors.brown, "lib/images/todoonada.png"],
+   ["Green Burger", "Johny rockets", "65", Colors.green, "lib/images/green.png"],
+   ["Mini Dini","McDonalds", "78", Colors.blue, "lib/images/mini.png"],
 
   ];
   BurgerTab ({super.key});
