@@ -6,15 +6,15 @@ class PizzaTab extends StatelessWidget {
   //Lista de donas
   final List donutsOnSale = [
     // [ donutFlavor, donutStore, donutPrice, donutColor, imageName ]
-   ["Juice Burguer","Burger King", "68", Colors.orange, "lib/images/icecream_donut.png"],
-   ["Strawberry", "Dunkin Donuts", "45", Colors.red, "lib/images/strawberry_donut.png"],
-   ["Grape Ape", "Krispy Cream", "84", Colors.purple, "lib/images/grape_donut.png"],
-   ["Choco", "Donkey Donut", "95", Colors.brown, "lib/images/chocolate_donut.png"],
-   ["Platano", "Donkey Donut", "60", Colors.brown, "lib/images/chocolate_donut.png"],
-   ["Limon", "Krispy Cream", "78", Colors.purple, "lib/images/grape_donut.png"],
-   ["Carlos V", "Krispy Cream", "99", Colors.purple, "lib/images/grape_donut.png"],
-   ["Crunchy","Krispy Cream", "81", Colors.blue, "lib/images/icecream_donut.png"],
-
+   ["Hawaiii","Dominos", "68", Colors.orange, "lib/images/hawai.png"],
+   ["Extra extra", "Dominos", "45", Colors.red, "lib/images/extra.png"],
+   ["Veggie", "Little Cesars", "84", Colors.purple, "lib/images/vegie.png"],
+   ["Pepperoni", "Little Cesars", "95", Colors.brown, "lib/images/pepe.png"],
+   ["Margarita", "Dominos", "60", Colors.brown, "lib/images/marga.png"],
+   ["Carnívora", "Little Cesars", "78", Colors.purple, "lib/images/carni.png"],
+   ["Napolitana", "Little Cesars", "99", Colors.purple, "lib/images/napo.png"],
+   ["Champ","Dominos", "81", Colors.blue, "lib/images/champi.png"],
+  
   ];
   PizzaTab ({super.key});
 

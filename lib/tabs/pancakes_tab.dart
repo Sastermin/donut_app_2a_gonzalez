@@ -6,15 +6,15 @@ class PancakesTab extends StatelessWidget {
   //Lista de donas
   final List donutsOnSale = [
     // [ donutFlavor, donutStore, donutPrice, donutColor, imageName ]
-   ["Ice Cream","Krispy Cream", "36", Colors.blue, "lib/images/icecream_donut.png"],
-   ["Strawberry", "Dunkin Donuts", "45", Colors.red, "lib/images/strawberry_donut.png"],
-   ["Grape Ape", "Krispy Cream", "84", Colors.purple, "lib/images/grape_donut.png"],
-   ["Choco", "Donkey Donut", "95", Colors.brown, "lib/images/chocolate_donut.png"],
-   ["Platano", "Donkey Donut", "60", Colors.brown, "lib/images/chocolate_donut.png"],
-   ["Limon", "Krispy Cream", "78", Colors.purple, "lib/images/grape_donut.png"],
-   ["Carlos V", "Krispy Cream", "99", Colors.purple, "lib/images/grape_donut.png"],
-   ["Crunchy","Krispy Cream", "81", Colors.blue, "lib/images/icecream_donut.png"],
-
+   ["Natural","I-HOP", "36", Colors.yellow, "lib/images/natural.png"],
+   ["Strawberry", "I-HOP", "45", Colors.red, "lib/images/fresahot.png"],
+   ["Chocolate", "I-HOP", "84", Colors.brown, "lib/images/chocolate.png"],
+   ["Hot-Banana", "I-HOP", "95", Colors.yellow, "lib/images/hotplatano.png"],
+   ["Hot-Tower", "I HOP", "60", Colors.brown, "lib/images/hotower.png"],
+   ["Hot-Cupcake", "I-HOP", "78", Colors.purple, "lib/images/colores.png"],
+   ["Hot-Pay", "I-HOP", "99", Colors.purple, "lib/images/pay.png"],
+   ["Hot-Hershey","I-HOP", "81", Colors.yellow, "lib/images/hershey.png"],
+  
   ];
   PancakesTab ({super.key});
 
